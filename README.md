@@ -19,14 +19,16 @@ Permite organizar proyectos y tareas en columnas con drag-and-drop, además de a
 ## 📷 Capturas de pantalla
 
 ### Vista de proyectos
-![Vista de proyectos](./screenshots/projects-view.png)
+![Vista de proyectos](./imagenes/primera.png)
 
 ### Modal de nueva tarea
-![Modal nueva tarea](./screenshots/new-task.png)
+![Modal nueva tarea](./imagenes/segunda.png)
 
 ### Tablero Kanban
-![Tablero Kanban](./screenshots/kanban-board.png)
+![Tablero Kanban](./imagenes/tercera.png)
 
+### Nuevo Modal de un tablero Kanban
+![Tablero Kanban](./imagenes/cuarta.png)
 ---
 
 ## 🛠️ Tecnologías utilizadas
