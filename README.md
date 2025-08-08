@@ -1,24 +1,41 @@
-# ✅ Gestor de Tareas (Kanban)
+# 📌 Kanban App - React
 
-Este proyecto es una aplicación de gestión de tareas con vista estilo **Kanban**, diseñada para ayudar a desarrolladores a organizar su flujo de trabajo por columnas (como "Por hacer", "En progreso", "Completado").
+Aplicación de gestión de tareas estilo **Trello** creada con **React**.  
+Permite organizar proyectos y tareas en columnas con drag-and-drop, además de añadir, editar y eliminar tareas.
 
-## 🧠 Funcionalidades
+---
 
-- Visualización de tareas en columnas tipo Kanban
-- Crear tareas
-- Arrastrar una tarea a otro estado (drag and drop)
+## 🚀 Características
 
-## 🛠 Tecnologías utilizadas
+- 🗂 **Vista de proyectos** con opción para crear nuevos.
+- 📋 **Tablero Kanban** con columnas personalizadas.
+- 🎯 **Gestión de tareas**: añadir, editar y eliminar.
+- 🎨 **Diseño moderno** con TailwindCSS y colores personalizados.
+- 🔄 **Drag & Drop** usando **DnD Kit**.
+- 💾 Datos guardados de forma local (estado interno).
 
-- React
-- Tailwind CSS
-- Vite
+---
 
-## 🚀 Cómo ejecutar el proyecto localmente
+## 📷 Capturas de pantalla
 
-1. Clona el repositorio:
+### Vista de proyectos
+![Vista de proyectos](./screenshots/projects-view.png)
 
-```bash
-git clone https://github.com/Kennedy343/gestor-tareas-kanban.git
-cd gestor-tareas-kanban
-```
+### Modal de nueva tarea
+![Modal nueva tarea](./screenshots/new-task.png)
+
+### Tablero Kanban
+![Tablero Kanban](./screenshots/kanban-board.png)
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- **React** (Hooks y componentes funcionales)
+- **DnD Kit** (Drag & Drop)
+- **TailwindCSS** (Estilos)
+- **JavaScript ES6**
+- **Vite** (Entorno de desarrollo rápido)
+
+---
+
