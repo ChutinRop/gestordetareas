@@ -19,16 +19,14 @@ Permite organizar proyectos y tareas en columnas con drag-and-drop, además de a
 ## 📷 Capturas de pantalla
 
 ### Vista de proyectos
-![Vista de proyectos](./imagenes/primera.png)
+![Vista de proyectos](./screenshots/projects-view.png)
 
 ### Modal de nueva tarea
-![Modal nueva tarea](./imagenes/segunda.png)
+![Modal nueva tarea](./screenshots/new-task.png)
 
 ### Tablero Kanban
-![Tablero Kanban](./imagenes/tercera.png)
+![Tablero Kanban](./screenshots/kanban-board.png)
 
-### Nuevo Modal de un tablero Kanban
-![Tablero Kanban](./imagenes/cuarta.png)
 ---
 
 ## 🛠️ Tecnologías utilizadas
@@ -41,3 +39,9 @@ Permite organizar proyectos y tareas en columnas con drag-and-drop, además de a
 
 ---
 
+## 📦 Instalación y ejecución
+
+1. **Clonar el repositorio**
+   ```bash
+   git clone https://github.com/tu-usuario/kanban-app.git
+   cd kanban-app

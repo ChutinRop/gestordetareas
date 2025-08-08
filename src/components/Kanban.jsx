@@ -86,10 +86,13 @@ const Kanban = ({ project, onBack }) => {
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
         {columns.map((column) => (
-          <div key={column.id} className="bg-white p-4 rounded shadow">
+          <div
+            key={column.id}
+            className="bg-white p-4 rounded-sm shadow min-h-[300px] flex flex-col"
+          >
             <h3 className="text-lg font-semibold mb-4">{column.title}</h3>
 
-            <div className="space-y-2 min-h-[100px]">
+            <div className="space-y-2 flex-1">
               {column.tasks.length === 0 && (
                 <p className="text-gray-400 italic">Sin tareas</p>
               )}
